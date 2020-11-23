@@ -62,7 +62,7 @@ html {
 }
 
 
-.avatar:hover::before,
+/* .avatar:hover::before,
 .avatar:hover::after {
   animation: pulse 1s linear infinite, cycle-colors 6s linear infinite;
 }
@@ -70,3 +70,4 @@ html {
 .avatar:hover::after {
   animation-delay: .5s;
 }
+ */
